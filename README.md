@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's your README.md content generated using the information you provided, tailored for your GitHub profile:
-
 # Hi 👋, I'm Arun R
 
 ## Electronics and Computer Engineering Student | Passionate about IoT and Machine Learning
@@ -94,12 +92,4 @@ Connect with Me Section: Provides links to your social media profiles.
 
 Add-ons Section: Suggests additional customizations to make your profile more engaging.
 
-Remember to:
 
-Replace the placeholders: Update the placeholders in the "Work" section with your specific project details and collaboration interests.
-
-Add your resume link: Replace "[Resume Link]" with a link to your updated resume.
-
-Customize further: Add any other sections or information you think would enhance your profile.
-
-This README.md file will create a visually appealing and informative profile page that showcases your skills and projects to potential employers and collaborators. Let me know if you have any questions!
