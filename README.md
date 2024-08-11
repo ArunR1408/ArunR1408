@@ -44,6 +44,9 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a> 
 <br/>
+<br/>
+<br/><br/>
+
 
 ## Connect with me
 
