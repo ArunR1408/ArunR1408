@@ -18,6 +18,20 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 
 👨‍💻 All of my projects are available at [@ArunR1408](https://arunr1408.github.io/)
 
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408) 
+[![Twitter](https://img.shields.io/badge/Twitter-@ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)
+
+
+## Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="ArunR1408" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ArunR1408" /></p>
+
+![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
 
 ## Skills
 
@@ -33,8 +47,7 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"/> </a> 
-
-<br/> 
+<br/>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
@@ -44,21 +57,9 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a> 
 <br/>
-<br/>
-<br/><br/>
 
 
-## Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408) 
-[![Twitter](https://img.shields.io/badge/Twitter-@ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)
 
 
-## Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ArunR1408" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
