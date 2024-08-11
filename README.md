@@ -57,8 +57,8 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 
 ## Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=material-palenight&hide_border=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ArunR1408" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="ArunR1408" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ArunR1408" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
