@@ -27,18 +27,14 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 <img align="left" width="48" height="48" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" width="48" height="48" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img align="left" width="48" height="48" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img align="left" width="48" height="48" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+<img align="left" width="48" height="48" alt="Assembly Language" src="https://cdn.iconscout.com/icon/free/png-256/assembly-language-3521566-2945082.png">
+<img align="left" width="48" height="48" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
 <img align="left" width="48" height="48" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" width="48" height="48" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" width="48" height="48" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" width="48" height="48" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> 
-<img align="left" width="48" height="48" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img align="left" width="48" height="48" alt="Assembly Language" src="https://cdn.iconscout.com/icon/free/png-256/assembly-language-3521566-2945082.png">
-<br />
-<img align="left" width="48" height="48" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-<img align="left" width="48" height="48" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" width="48" height="48" alt="Machine Learning" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/machine-learning/machine-learning.png">
-<img align="left" width="48" height="48" alt="IoT" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/iot/iot.png"> 
-<br />
+
+
 <br />
 
 
