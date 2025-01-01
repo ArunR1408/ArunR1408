@@ -10,7 +10,7 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 
 👯 I’m looking to collaborate on open-source projects related to **IoT, Machine Learning, or Embedded Systems.**
 
-🌱 I’m currently learning **JAVA and Advanced Machine Learning techniques.**
+🌱 I’m currently learning **Cloud Computing and Advanced Machine Learning techniques.**
 
 💬 Ask me about **Python, IoT, Machine Learning, Embedded Systems, or anything tech-related!**
 
