@@ -44,7 +44,6 @@ I'm an Electronics and Computer Engineering student with a passion for leveragin
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"/> </a> 
-<br/>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a> 
