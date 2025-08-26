@@ -21,10 +21,9 @@ I'm an Electronics and Computer Engineering engineer with a passion for leveragi
 
 ## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408)  
-[![Twitter](https://img.shields.io/badge/Twitter-ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)  
-
+[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunr1408) 
+[![Twitter](https://img.shields.io/badge/Twitter-ArunR1408-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArunR1408)
 
 ## Stats
 
