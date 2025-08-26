@@ -4,53 +4,57 @@
 
 # Hi 👋, I'm Arun R
 
-## Electronics and Computer Engineering Student | Passionate about IoT and Machine Learning
+## Electronics and Computer Engineering Graduate | Tech Enthusiast  
 
-I'm an Electronics and Computer Engineering student with a passion for leveraging technology to solve real-world problems. I specialize in Python, IoT, and Machine Learning, and I'm constantly exploring new ways to apply these skills to create innovative solutions. 
+I'm an **Electronics and Computer Engineering graduate** passionate about leveraging technology to solve real-world problems. My interests lie in **IoT, Machine Learning, and Software Engineering**, and I’m constantly exploring innovative ways to bridge **hardware, data, and software**.  
 
-👯 I’m looking to collaborate on open-source projects related to **IoT, Machine Learning, or Embedded Systems.**
+👯 I’m looking to collaborate on open-source projects related to **IoT, Machine Learning, Embedded Systems, or Software Development.**  
 
-🌱 I’m currently learning **Cloud Computing and Advanced Machine Learning techniques.**
+🌱 I’m currently learning **Java, Cloud Computing, and Advanced Machine Learning techniques.**  
 
-💬 Ask me about **Python, IoT, Machine Learning, Embedded Systems, or anything tech-related!**
+📑 I’m also working on a **journal paper in autonomous vehicle technology** and have experience collaborating with research labs like **HuT Labs, Centre for Flexible Electronics, and AMMACHI Labs**.  
 
-📫 Reach me at **arun1892003@gmail.com**
+💬 Ask me about **Python, IoT, Machine Learning, Embedded Systems, or Cloud Tech!**  
 
-👨‍💻 All of my projects are available at [@ArunR1408](https://arunr1408.github.io/)
+📫 Reach me at **arun1892003@gmail.com**  
 
-## Connect with me
+👨‍💻 Explore my portfolio & projects: [arunr1408.github.io](https://arunr1408.github.io/)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408) 
-[![Twitter](https://img.shields.io/badge/Twitter-@ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)
+---
 
+## Connect with me  
 
-## Stats
+[![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ArunR1408" /></p>
+---
 
-![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
+## 📊 Stats  
 
-## Skills
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&count_private=true" alt="ArunR1408" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&layout=compact" alt="ArunR1408" /></p>  
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="C" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Assembly Language" src="https://cdn.iconscout.com/icon/free/png-256/assembly-language-3521566-2945082.png"> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" width="48" height="48" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a> 
-<br/>
+![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&margin-w=4)  
 
+---
 
+## 🛠️ Skills  
 
+<a href="https://www.python.org"><img width="48" height="48" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
+<a href="https://www.java.com"><img width="48" height="48" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
+<a href="https://www.mysql.com/"><img width="48" height="48" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></a>
+<a href="https://www.cprogramming.com/"><img width="48" height="48" alt="C" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></a>
+<a href="https://www.r-project.org/"><img width="48" height="48" alt="R" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></a>
+<a href="https://www.mathworks.com/"><img width="48" height="48" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language"><img width="48" height="48" alt="Assembly" src="https://cdn.iconscout.com/icon/free/png-256/assembly-language-3521566-2945082.png"></a>
+<a href="https://www.arduino.cc/"><img width="48" height="48" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></a>
+<a href="https://cloud.google.com"><img width="48" height="48" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
+<a href="https://aws.amazon.com/"><img width="48" height="48" alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a>
+<a href="https://pytorch.org/"><img width="48" height="48" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
+<a href="https://www.tensorflow.org"><img width="48" height="48" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
+<a href="https://scikit-learn.org/"><img width="48" height="48" alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
+<a href="https://www.photoshop.com/en"><img width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></a>
 
-
-
+---
