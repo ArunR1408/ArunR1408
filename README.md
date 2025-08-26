@@ -1,36 +1,32 @@
+@@ -1,57 +1,56 @@
 <!--
 **ArunR1408/ArunR1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 # Hi 👋, I'm Arun R
 
-## Electronics and Computer Engineering Graduate | Tech Enthusiast  
+## Electronics and Computer Engineering Engineer | Tech Enthusiast
 
-I'm an **Electronics and Computer Engineering graduate** passionate about leveraging technology to solve real-world problems. My interests lie in **IoT, Machine Learning, and Software Engineering**, and I’m constantly exploring innovative ways to bridge **hardware, data, and software**.  
+I'm an Electronics and Computer Engineering engineer with a passion for leveraging technology to solve real-world problems. I specialize in Python, IoT, and Machine Learning, and I’m constantly exploring innovative ways to bridge **hardware, data, and software**. 
 
 👯 I’m looking to collaborate on open-source projects related to **IoT, Machine Learning, Embedded Systems, or Software Development.**  
 
 🌱 I’m currently learning **Java, Cloud Computing, and Advanced Machine Learning techniques.**  
 
-📑 I’m also working on a **journal paper in autonomous vehicle technology** and have experience collaborating with research labs like **HuT Labs, Centre for Flexible Electronics, and AMMACHI Labs**.  
-
-💬 Ask me about **Python, IoT, Machine Learning, Embedded Systems, or Cloud Tech!**  
+💬 Ask me about **Python, IoT, Machine Learning, Embedded Systems, or anything tech-related!**
 
 📫 Reach me at **arun1892003@gmail.com**  
 
 👨‍💻 Explore my portfolio & projects: [arunr1408.github.io](https://arunr1408.github.io/)  
 
----
-
-## Connect with me  
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArunR1408-blue?style=for-the-badge&logo=github)](https://github.com/ArunR1408)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArunR1408-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunr1408)  
-[![Twitter](https://img.shields.io/badge/Twitter-@ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)  
+[![Twitter](https://img.shields.io/badge/Twitter-ArunR1408-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArunR1408)  
 
----
 
-## 📊 Stats  
+## Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&count_private=true" alt="ArunR1408" /></p>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>  
@@ -38,9 +34,7 @@ I'm an **Electronics and Computer Engineering graduate** passionate about levera
 
 ![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&margin-w=4)  
 
----
-
-## 🛠️ Skills  
+## Skills
 
 <a href="https://www.python.org"><img width="48" height="48" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
 <a href="https://www.java.com"><img width="48" height="48" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
@@ -57,4 +51,3 @@ I'm an **Electronics and Computer Engineering graduate** passionate about levera
 <a href="https://scikit-learn.org/"><img width="48" height="48" alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
 <a href="https://www.photoshop.com/en"><img width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></a>
 
----
