@@ -5,9 +5,9 @@
 
 # Hi 👋, I'm Arun R
 
-## Electronics and Computer Engineering Engineer | Tech Enthusiast
+## Electronics and Computer Engineer | Tech Enthusiast
 
-I'm an Electronics and Computer Engineering engineer with a passion for leveraging technology to solve real-world problems. I specialize in Python, IoT, and Machine Learning, and I’m constantly exploring innovative ways to bridge **hardware, data, and software**. 
+I'm an Electronics and Computer engineer with a passion for leveraging technology to solve real-world problems. I specialize in Python, IoT, and Machine Learning, and I’m constantly exploring innovative ways to bridge **hardware, data, and software**. 
 
 👯 I’m looking to collaborate on open-source projects related to **IoT, Machine Learning, Embedded Systems, or Software Development.**  
 
@@ -17,7 +17,7 @@ I'm an Electronics and Computer Engineering engineer with a passion for leveragi
 
 📫 Reach me at **arun1892003@gmail.com**  
 
-👨‍💻 Explore my portfolio & projects: [arunr1408.github.io](https://arunr1408.github.io/)  
+👨‍💻 Explore my portfolio: [arunr1408.github.io](https://arunr1408.github.io/)  
 
 ## Connect with me
 
