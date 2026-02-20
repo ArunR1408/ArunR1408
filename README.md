@@ -27,9 +27,23 @@ I'm an Electronics and Computer engineer with a passion for leveraging technolog
 
 ## Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunR1408&theme=midnight-purple&hide_border=false&count_private=true" alt="ArunR1408" /></p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" alt="ArunR1408" /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunR1408&theme=midnight-purple&hide_border=false&layout=compact" alt="ArunR1408" /></p>  
+<p>
+  <img align="center" 
+       src="https://github-readme-stats-fast.vercel.app/api?username=ArunR1408&theme=midnight-purple&count_private=true" 
+       alt="ArunR1408 GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ArunR1408&theme=midnight-purple&hide_border=false" 
+       alt="ArunR1408 GitHub Streak" />
+</p>
+
+<p>
+  <img align="center" 
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArunR1408&layout=compact&theme=midnight-purple" 
+       alt="ArunR1408 Top Languages" />
+</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=ArunR1408&theme=dracula&no-frame=false&margin-w=4)  
 
