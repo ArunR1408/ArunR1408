@@ -39,7 +39,7 @@ I'm an Electronics and Computer engineer with a passion for leveraging technolog
 
 <p>
   <img align="center" 
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArunR1408&layout=compact&theme=midnight-purple" 
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArunR1408&layout=compact&theme=midnight-purple&hide=jupyter%20notebook&exclude_repo=arunr1408.github.io" 
        alt="ArunR1408 Top Languages" />
 </p>
 
