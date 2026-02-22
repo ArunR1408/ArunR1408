@@ -62,3 +62,7 @@ I'm an Electronics and Computer engineer with a passion for leveraging technolog
 <a href="https://scikit-learn.org/"><img width="48" height="48" alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
 <a href="https://www.photoshop.com/en"><img width="48" height="48" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></a>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArunR1408.ArunR1408" alt="Profile Visitor Count" />
+</p>
+
