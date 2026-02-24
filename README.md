@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunR1408)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ArunR1408)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arunr1408)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/ArunR1408)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://arunr1408.github.io)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ArunR1408)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://arunr1408.github.io)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arun1892003@gmail.com)
 
 </div>
@@ -41,7 +41,7 @@ I try to approach things with the same mindset: understand what’s actually hap
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7dd3fc)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-0D1117?style=for-the-badge&logo=c&logoColor=7dd3fc)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=7dd3fc)
-![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=7dd3fc)
+![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=0076A8)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=7dd3fc)
 ![Assembly](https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=7dd3fc)
 
