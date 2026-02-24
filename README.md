@@ -104,8 +104,3 @@ I try to approach things with the same mindset: understand what’s actually hap
 </div>
 
 <br/>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1b3238,100:5BC0BE&height=115&section=footer" width="100%"/>
-</div>
