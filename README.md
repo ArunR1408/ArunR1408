@@ -22,13 +22,17 @@
 
 <!-- About -->
 <div align="center">
-I’m an Electronics and Computer Engineering graduate who enjoys building things that connect hardware and software in practical ways.
 
-I’ve mostly worked with Python, IoT, and Machine Learning so far, but I don’t really see myself tied to specific tools. What interests me more is how different pieces fit together to solve real problems. Lately, I’ve been spending time learning Java, and App Development.
+AI Developer and Electronics & Computer Engineering graduate interested in the intersection of research, engineering, and real-world applications.
 
-I’m open to collaborating on technical projects across the board — especially ones where I can work across layers, from low-level systems to higher-level software logic.
+I work across computer vision, deep learning, machine learning, and generative AI, with experience in developing AI-driven solutions, object detection, intelligent automation, model evaluation, and optimization.
 
-I try to approach things with the same mindset: understand what’s actually happening instead of assuming. Whether I’m debugging a system, exploring a new place, or breaking down a film, I like looking beneath the surface to see how things are structured.
+Currently working as an Assistant System Engineer at Tata Consultancy Services, exploring practical applications of AI and emerging technologies.
+
+My research contributions include publications in a Q1 Elsevier journal and IEEE proceedings, covering pedestrian intention prediction, sustainable agriculture, and intelligent sensing technologies.
+
+Always curious, continuously learning, and interested in building technology that solves meaningful problems.
+
 </div>
 
 <div align="center">
